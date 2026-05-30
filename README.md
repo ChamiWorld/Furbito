@@ -1,7 +1,7 @@
 # Furbito
 
 ## Alpha 1
-
+[Descargar](https://github.com/ChamiWorld/Furbito/releases)
 Primera versión pública de desarrollo de Furbito.
 
 Esta alpha está enfocada en probar las bases del movimiento del jugador y la configuración inicial del proyecto.
