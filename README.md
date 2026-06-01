@@ -4,11 +4,12 @@ Furbito es un videojuego de fútbol en desarrollo creado con Unity.
 
 ## 📥 Descarga
 
-https://github.com/user-attachments/assets/eeda6367-f3bb-41e6-8945-7030f684c4ba
-
 Puedes descargar la última versión desde la página de lanzamientos:
 
 [Descargar](https://github.com/ChamiWorld/Furbito/releases)
+
+https://github.com/user-attachments/assets/eeda6367-f3bb-41e6-8945-7030f684c4ba
+
 
 ## 🚧 Estado del proyecto
 
