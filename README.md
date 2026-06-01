@@ -8,7 +8,11 @@ Puedes descargar la última versión desde la página de lanzamientos:
 
 [Descargar](https://github.com/ChamiWorld/Furbito/releases)
 
-https://github.com/user-attachments/assets/eeda6367-f3bb-41e6-8945-7030f684c4ba
+
+
+https://github.com/user-attachments/assets/9b80f436-5549-40bd-8ebf-69e89f966c57
+
+
 
 
 ## 🚧 Estado del proyecto
