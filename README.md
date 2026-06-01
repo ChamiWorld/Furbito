@@ -1,45 +1,25 @@
-# Furbito
+# Furbito ⚽
 
-## Alpha 1
+Furbito es un videojuego de fútbol en desarrollo creado con Unity.
+
+## 📥 Descarga
+
+Puedes descargar la última versión desde la página de lanzamientos:
+
 [Descargar](https://github.com/ChamiWorld/Furbito/releases)
-Primera versión pública de desarrollo de Furbito.
 
-Esta alpha está enfocada en probar las bases del movimiento del jugador y la configuración inicial del proyecto.
+## 🚧 Estado del proyecto
 
-## Características implementadas
+Actualmente en fase **Alpha**.
 
-### Movimiento básico
-- W → Avanzar
-- A → Moverse a la izquierda
-- S → Retroceder
-- D → Moverse a la derecha
+El proyecto se encuentra en desarrollo activo y muchas características pueden cambiar en futuras versiones.
 
-### Acciones
-- Shift → Barrer
-- Ctrl → Correr
-- Espacio → Saltar
+## 📋 Changelog
 
-## Estado actual
+Consulta el CHANGELOG dentro de cada version para ver todas las actualizaciones del proyecto.
 
-Actualmente el jugador está representado por una cápsula dentro de un campo de fútbol de prueba.
+## 🐛 Reportar errores
 
-Esta versión sirve como base para futuras mecánicas de juego.
+Si encuentras algún error o tienes una sugerencia, puedes abrir un Issue en GitHub.
 
-## Próximas características
-
-- Pelota funcional
-- Sistema de disparos
-- Area de gol
-- Cancha con dimensiones reakes
-- Animaciones y Modelos definitivos (en proximas alphas)
-
-## Información de la versión
-
-Versión: Alpha 1  
-Motor: Unity 6 LTS (6000.74f1)  
-Estado: En desarrollo activo
-
----
-
-## Gracias por probar Furbito.
-Chami
+## Gracias por probar mi juego
