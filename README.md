@@ -23,6 +23,6 @@ Consulta el CHANGELOG dentro de cada version para ver todas las actualizaciones 
 
 ## 🐛 Reportar errores
 
-Si encuentras algún error o tienes una sugerencia, puedes abrir un Issue en GitHub.
+Si encuentras algún error o tienes una sugerencia, puedes abrir un [Issue](https://github.com/ChamiWorld/Furbito/issues/new) en GitHub.
 
 ## Gracias por probar mi juego
